@@ -69,3 +69,12 @@
 
 - **Metube**: Plateforme de téléchargement YouTube auto-hébergée permettant de sauvegarder et de gérer des vidéos YouTube localement.
 - **Piped**: Interface YouTube sans publicité offrant une expérience de visionnage de vidéos sans interruption publicitaire.
+
+
+## Addons et extensions pour Stremio
+
+- **stream-fusion**: Extension pour Stremio permettant de rechercher et de diffuser des vidéos à partir de plusieurs sources.
+- **stremio-catalog-providers**: Extension pour Stremio permettant d'ajouter des catalogues de vidéos supplémentaires.
+- **stremio-addon-manager**: Extension pour Stremio permettant de gérer les addons tiers.
+- **stremio-saga-addon**: Extension pour Stremio permettant de retrouver les saga de filmes depuis TMDB.
+- **stremio-tmdb-dice**: Extension pour Stremio permettant de découvrir des films aléatoires depuis TMDB.
